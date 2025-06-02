@@ -1,2 +1,2 @@
 # SimonSaysGame-
-I'm happy , this is first project of mine 
+I'm happy , This is my first project 
